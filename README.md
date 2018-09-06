@@ -1,11 +1,25 @@
-# Predict-Blood-Donations
+# Predict-Blood-Donations[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/souvikb07/Predict-Blood-Donations/blob/master/LICENSE)  [![](https://img.shields.io/badge/Souvik-Banerjee-blue.svg)](https://souvikb07.github.io)
 
-## Introduction 
-While working for Rotaract Club of MSIT from last 3 years one of my main responsibility was to organise Blood Donation Camps, and it is an amazing event to organise because it gives you a feeling that you are helping for a right cause which saves life.
+## Problem
+Predicting if a Blood Donor will donate within a given time window?
 
-### Problem
-One of the major problem while organising the Blood Donation Camp was that to convince the people who were walking near the camp to be a donor which results in 70% of the people were not interesting in donating due to reasons like they have work to do, they need to go somewhere etc.
-There's this one time in every year when we organise a blood donation camp in Adarsh Public School, New Delhi on the day of parent teacher meeting, so parents were already told about the donation camp and almost 80-90% of the parents become donors. 
+### Application
+By solving this problem the blood donation camps can get 40% more blood donors.
+
+### Sourcerer
+[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/0)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/0)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/1)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/1)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/2)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/2)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/3)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/3)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/4)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/4)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/5)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/5)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/6)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/6)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/7)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/7)
+
+### Code Requirements
+The example code is in Python ([version 3.6.6](https://www.python.org/download/releases/2.7/) or higher will work). 
+
+### Dependencies
+
+1) import pandas
+2) import numpy
+3) import seaborn
+4) import matplotlib
+5) import Counter
+6) import sklearn
 
 ## Description
 
@@ -31,7 +45,7 @@ Use Python to explore data related to blood donors and we want to predict whethe
 * Feature Engineering
     * Using domain knowledge of the data to create features that make machine learning algorithms work. 
 * Machine Learning
-    * Use Classification algorithms to make predictions.
+    * Use of Random Forest, Extra Trees, Gradient Boosting, SVC classifiers.
 
 ## File Descriptions
 
