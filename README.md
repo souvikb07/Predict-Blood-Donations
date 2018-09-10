@@ -12,7 +12,7 @@ By solving this problem the blood donation camps can get 40% more blood donors.
 [![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/0)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/0)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/1)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/1)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/2)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/2)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/3)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/3)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/4)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/4)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/5)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/5)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/6)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/6)[![](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/images/7)](https://sourcerer.io/fame/souvikb07/souvikb07/Predict-Blood-Donations/links/7)
 
 ### Code Requirements
-The example code is in Python ([version 3.6.6](https://www.python.org/download/releases/2.7/) or higher will work). 
+The example code is in Python ([version 3.6.6](https://www.python.org/downloads/release/python-366/) or higher will work). 
 
 ### Dependencies
 
